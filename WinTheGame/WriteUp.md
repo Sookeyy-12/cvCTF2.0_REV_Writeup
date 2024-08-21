@@ -46,3 +46,9 @@ Now Run the game, as soon as you jump, you will continue moving upwards (because
 Make your way towards the flag and you should be able to see the flag:
 
 ![alt text](../Images/dnflag.png)
+
+Now just submit the flag with the format specified:
+
+```
+cvCTF{WELCOME_TO_UNITY!!}
+```
