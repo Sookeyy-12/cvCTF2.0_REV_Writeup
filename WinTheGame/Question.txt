@@ -1,0 +1,4 @@
+Put this flag in standard cvCTF format before submitting. 
+If the flag was h1_1m_7h3_f14g submit cvCTF{h1_1m_7h3_f14g} to the platform.
+
+Score: 500

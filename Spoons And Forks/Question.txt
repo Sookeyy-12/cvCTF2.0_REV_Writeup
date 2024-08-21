@@ -1,0 +1,6 @@
+In this program, identify the last integer value that is passed as parameter to the function doNothing().
+
+Score: 300
+
+HINT (50):
+What happens when you fork? The flag is cvCTF{IntegerYouFound}. For example, if you found that the last integer passed was 1234, the flag would be cvCTF{1234}
